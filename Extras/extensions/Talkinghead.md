@@ -1,7 +1,7 @@
 # talkinghead
 
 ### What is it?
-A implementation of Talking Head Anime 3 Demo for AITuber. It possesses the following features:
+An implementation of Talking Head Anime 3 Demo for AITuber. It possesses the following features:
 
     -Generates random Live 2D-like motion actions from a single static image.
 
